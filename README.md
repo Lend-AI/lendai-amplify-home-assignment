@@ -1,4 +1,5 @@
----
+
+----------
 
 ![alt](common/images/lendaicolorlogo.png 'LendAILogo')
 
@@ -21,19 +22,17 @@ Name and see its details.
 2. Get started with AWS Amplify + Angular: [Getting started - Angular - AWS Amplify Docs](https://docs.amplify.aws/start/q/integration/angular/)
 3. Create and build the Data Model (based on Amazon DynamoDB) for the Hotel Reservations
    Management App, the app should support the following functions:
-   a. Add a new Hotel with an address and image.
-   b. Add a Room Type for the Hotel, with the number of rooms available for that type.
-   c. Book a reservation for a Hotel room for a client with a specific date.
-   d. See all the Hotels in a Google Map component.
-   e. Search for a Hotel and see the result in a grid view with the Hotel image and name.
+   1. Add a new Hotel with an address and image.
+   2. Add a Room Type for the Hotel, with the number of rooms available for that type.
+   3. Book a reservation for a Hotel room for a client with a specific date.
+   4. See all the Hotels in a Google Map component.
+   5. Search for a Hotel and see the result in a grid view with the Hotel image and name.
 4. The following restrictions should apply to the data model:
-   a. A client can't book two rooms on the same date, a message should appear on screen to
-   indicate that.
-   b. A client can't book a room of a specific type where all the rooms are already booked, a
-   message should appear on screen to indicate that.
+     1. A client can't book two rooms on the same date, a message should appear on screen to indicate that.
+     2. A client can't book a room of a specific type where all the rooms are already booked, a message should appear on screen to indicate that.
 5. Create a Dashboard which consists of the following reports:
-   a. Show the number of reservations created each day in total across all hotels.
-   b. Show the top hotels by the amount of reservations assigned to each of them.
+     1. Show the number of reservations created each day in total across all hotels.
+     2. Show the top hotels by the amount of reservations assigned to each of them.
 
 ## Notes
 
