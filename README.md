@@ -18,7 +18,7 @@ Name and see its details.
 ## Tasks
 
 1. Open a free tier AWS account: [Free Cloud Computing Services - AWS Free Tier (amazon.com)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
-2. Get started with AWS Amplify + Angular: [Getting started - Angular - AWS Amplify Docs](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+2. Get started with AWS Amplify + Angular: [Getting started - Angular - AWS Amplify Docs](https://docs.amplify.aws/start/q/integration/angular/)
 3. Create and build the Data Model (based on Amazon DynamoDB) for the Hotel Reservations
    Management App, the app should support the following functions:
    a. Add a new Hotel with an address and image.
