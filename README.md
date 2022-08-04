@@ -32,8 +32,8 @@ Name and see its details.
    b. A client can't book a room of a specific type where all the rooms are already booked, a
    message should appear on screen to indicate that.
 5. Create a Dashboard which consists of the following reports:
-   a. Show the number of reservations created each day.
-   b. Show the top hotels by reservation number.
+   a. Show the number of reservations created each day in total across all hotels.
+   b. Show the top hotels by the amount of reservations assigned to each of them.
 
 ## Notes
 
